@@ -11,3 +11,4 @@ https://github.com/Dharmateja69/Amazone-clone/assets/143797004/39c692df-6bba-432
 https://github.com/Dharmateja69/Amazone-clone/assets/143797004/22215fe1-e993-4d63-a613-d76cd4186705
 
 
+this is my first amazon clone project
